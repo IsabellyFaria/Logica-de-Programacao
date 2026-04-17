@@ -7,6 +7,7 @@ Repositório criado para armazenar os exercícios propostos na disciplina de **L
 Os exercícios estão organizados por pastas, com o mesmo nome utilizado no Class Room:
 
 * 📁 Intro Linguagem C
+* 📁 Estrutura de Repetição
 
 
 ## 💻 Tecnologias Utilizadas
