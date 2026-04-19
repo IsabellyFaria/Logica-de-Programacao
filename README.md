@@ -8,7 +8,7 @@ Os exercícios estão organizados por pastas, com o mesmo nome utilizado no Clas
 
 * 📁 Intro Linguagem C
 * 📁 Estrutura de Repetição
-
+* 📁 Vetores
 
 ## 💻 Tecnologias Utilizadas
 
