@@ -10,12 +10,12 @@ int main(){
     fgets(nome, sizeof(nome), stdin);
 
     printf("\nSexo (F) feminino ou (M) masculino? ");
-    scanf(" %c", sexo);
+    scanf(" %c", &sexo);
 
     printf("\nDigite sua idade: ");
-    printf("%i",idade);
+    scanf("%i",&idade);
     char status[50];
-    if(sexo == "F" && idade < 25){
+    if(sexo == 'F' && idade < 25){
         printf("ACEITA");
     }else{
         printf("NÃO ACEITA");
