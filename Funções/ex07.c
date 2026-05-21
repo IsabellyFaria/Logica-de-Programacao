@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-void arruma(s[]){
-    int len = strlen()
-}
-
 int palindromo(char s[]){
     int len = strlen(s);
     if(s[len-1] == '\n'){
